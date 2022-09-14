@@ -1,4 +1,4 @@
-#include "mainn.h"
+#include "main.h"
 /**
  * print_sign - Check main
  * @n: An input number
